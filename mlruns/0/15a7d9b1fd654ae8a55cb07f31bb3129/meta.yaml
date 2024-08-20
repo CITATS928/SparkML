@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/qian/Desktop/ZipCode/Python/SparkML/mlruns/0/15a7d9b1fd654ae8a55cb07f31bb3129/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15a7d9b1fd654ae8a55cb07f31bb3129
+run_name: exultant-frog-855
+run_uuid: 15a7d9b1fd654ae8a55cb07f31bb3129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163090979
+status: 1
+tags: []
+user_id: qian

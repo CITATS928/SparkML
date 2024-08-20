@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/qian/Desktop/ZipCode/Python/SparkML/mlruns/0/464074d23688478aba92547e5a849f26/artifacts
+end_time: 1724162445252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 464074d23688478aba92547e5a849f26
+run_name: random-forest
+run_uuid: 464074d23688478aba92547e5a849f26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724162445230
+status: 3
+tags: []
+user_id: qian

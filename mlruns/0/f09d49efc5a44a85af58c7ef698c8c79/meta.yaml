@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/qian/Desktop/ZipCode/Python/SparkML/mlruns/0/f09d49efc5a44a85af58c7ef698c8c79/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f09d49efc5a44a85af58c7ef698c8c79
+run_name: sassy-kit-218
+run_uuid: f09d49efc5a44a85af58c7ef698c8c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163121384
+status: 1
+tags: []
+user_id: qian
